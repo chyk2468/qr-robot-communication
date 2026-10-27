@@ -10,6 +10,8 @@
 
 ---
 
+![QR-Link optical communication workflow](docs/readme-architecture.svg)
+
 ## Table of Contents
 
 1. [Overview](#1-overview)
